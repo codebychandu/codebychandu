@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo]()
+![logo](https://github.com/codebychandu/codebychandu/blob/main/github/Slider-Banner-Programming-Image-.jpg)
 <h1 align="center">Hi 👋, I'm Chandu Kumar.</h1>
 <h3 align="center">A passionate for full stack developer from India.</h3>
 
