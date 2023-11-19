@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **html, CSS, JavaScript**
 
-- 📫 How to reach me **chandukumar96932@gmail.com**
+- 📫 How to reach me **thehacktank@gmail.com**
 
 - ⚡ Fun fact **I am serious about my future.**
 
