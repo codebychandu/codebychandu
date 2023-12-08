@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<body style="background-color:gray;">
 ![logo](https://github.com/codebychandu/codebychandu/blob/main/github/Slider-Banner-Programming-Image-.jpg)
 <h1 align="center">Hi 👋, I'm Chandu Kumar.</h1>
 <h3 align="center">A passionate for full stack developer from India.</h3>
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebychandu&show_icons=true&locale=en&layout=compact" alt="codebychandu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebychandu&" alt="codebychandu" /></p>
+</body>
