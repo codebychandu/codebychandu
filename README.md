@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate for full stack developer from India.</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif"> -->
-<img align="right" alt="coding" width="400" src="codebychandu/codebychandu/github/Grey Simple Minimalist Business Card Landscape.mp4">
-
+<!-- <img align="right" alt="coding" width="400" src="codebychandu/codebychandu/github/Grey Simple Minimalist Business Card Landscape.mp4"> -->
+<video width="320" height="240" align="right" autoplay loop muted>
+  <source src="github/video.mp4" type="video/mp4" />
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebychandu&label=Profile%20views&color=0e75b6&style=flat" alt="codebychandu" /> </p>
 
 - 🌱 I’m currently learning **html, CSS, JavaScript**
