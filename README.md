@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate for full stack developer from India.</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif"> -->
-<img align="right" alt="coding" width="450" src="github/personal-card.gif"> 
+<img align="right" alt="coding" height="50" width="450" src="github/personal-card.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebychandu&label=Profile%20views&color=0e75b6&style=flat" alt="codebychandu" /> </p>
 
