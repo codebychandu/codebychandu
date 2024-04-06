@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/codebychandu/codebychandu/blob/main/github/Slider-Banner-Programming-Image-.jpg)
+<!-- ![logo](https://github.com/codebychandu/codebychandu/blob/main/github/Slider-Banner-Programming-Image-.jpg) -->
+![logo](github/banner.png)
 <body style="background-color: #DF826C;">
 
 <h1 align="center">Hi 👋, I'm Chandu Kumar.</h1>
