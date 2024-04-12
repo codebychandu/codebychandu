@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebychandu&" alt="codebychandu" /></p>
 </body>
+
+![snake gif](https://github.com/codebychandu/chandubychandu/blob/output/github-contribution-grid-snake.gif)
