@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebychandu&label=Profile%20views&color=0e75b6&style=flat" alt="codebychandu" /> </p>
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **thehacktank@gmail.com**
 
-- ⚡ Fun fact **I am serious about my future.**
+- ⚡ Fun fact **I am crazy for my future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
