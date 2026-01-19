@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebychandu&label=Profile%20views&color=0e75b6&style=flat" alt="codebychandu" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **thehacktank@gmail.com**
 
